@@ -17,8 +17,8 @@ import os
 
 
 # File paths
-diabetes_model_path = 'diabetes_model.sav'
-heart_disease_model_path = 'heart_disease_model.sav'
+diabetes_model_path = 'C:/Users/91900/Downloads/diabetes_model.sav'
+heart_disease_model_path = 'C:/Users/91900/Downloads/heart_disease_model.sav'
 
 # Load models
 #diabetes_model = pickle.load(open(diabetes_model_path, 'rb'))
